@@ -35,16 +35,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/xzill11/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xzill11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Fazilbasri11/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fazil Basri streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xzill11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/xzill11/github-readme-stats"><img alt="Fazil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xzill11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/xzill11/github-readme-stats"><img alt="Fazil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzill11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Fazilbasri11/github-readme-stats"><img alt="Fazil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xzill11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Fazilbasri11/github-readme-stats"><img alt="Fazil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzill11&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -65,6 +65,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=xzill11">
+    <img src="https://komarev.com/ghpvc/?username=Fazilbasri11">
 </a>
-<a href="https://github.com/xzill11?tab=followers"><img src="https://img.shields.io/github/followers/xzill11?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Fazilbasri11?tab=followers"><img src="https://img.shields.io/github/followers/xzill11?label=Followers&style=social" alt="GitHub Badge"></a>
