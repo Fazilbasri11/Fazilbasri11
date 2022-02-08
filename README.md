@@ -4,12 +4,12 @@
 <h3 align="center">I'm a passionate Junior Mobile Developer, UI & UX enthusiast.</h3>
 
 
-## 🙋‍♂️ About Me.
+<!-- ## 🙋‍♂️ About Me.
 
 
 - 🌱 I’m currently learning **Android Dev.**
 
-- 📫 How to reach me **fazillbasry@gmail.com**
+- 📫 How to reach me **fazillbasry@gmail.com** -->
 
 ## 🚀 Languages and Tools:
 
