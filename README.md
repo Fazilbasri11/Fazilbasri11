@@ -36,7 +36,7 @@
 
 <p align="center">
     <a href="https://github.com/Fazilbasri11/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fazil Basri streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xzill11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fazil Basri streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fazilbasri11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -67,4 +67,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Fazilbasri11">
 </a>
-<a href="https://github.com/Fazilbasri11?tab=followers"><img src="https://img.shields.io/github/followers/xzill11?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Fazilbasri11?tab=followers"><img src="https://img.shields.io/github/followers/Fazilbasri11?label=Followers&style=social" alt="GitHub Badge"></a>
