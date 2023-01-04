@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fazil Basri</h1>
 <h3 align="center">I'm a passionate Junior Mobile Developer, UI & UX enthusiast.</h3>
 
-
 <!-- ## 🙋‍♂️ About Me.
 
 
@@ -16,8 +15,6 @@
 <p align="center"> 
 <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
@@ -25,7 +22,6 @@
     <a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> </a> 
     <a href="https://developer.android.com/?hl=id" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/> </a>
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.w3schools.com/php/DEFAULT.asp" target="_blank"> <img src="https://img.icons8.com/officel/50/000000/php-logo.png"/> </a>
   
     
     
@@ -48,7 +44,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -56,6 +51,7 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/fazilbasri/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -64,6 +60,7 @@
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Fazilbasri11">
 </a>
