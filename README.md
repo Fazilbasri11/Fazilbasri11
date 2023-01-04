@@ -16,7 +16,7 @@
 <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/laravel.png"/> </a> 
+    <a href="https://laravel.com/" target="_blank"> <img src="https://icons8.com/icon/lRjcvhvtR81o/laravel"/> </a> 
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
     <a href="https://developer.android.com/?hl=id" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/> </a>
