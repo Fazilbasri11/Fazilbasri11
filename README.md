@@ -13,14 +13,9 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-<a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/laravel.png"/> </a> 
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
-    <a href="https://developer.android.com/?hl=id" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-os.png"/> </a>
-    <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
   
     
     
@@ -46,7 +41,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/fazilbasri/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/fazillbsry/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
